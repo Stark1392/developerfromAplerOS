@@ -1,2 +1,2 @@
-# developerfromAplerOS
-i need developer to programming aKernel
+# DeveloperfronPiso
+i need developer to programming a Kernel
